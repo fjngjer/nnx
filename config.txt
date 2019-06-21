@@ -1,0 +1,6 @@
+owner=252488488065302528
+prefix=Ca
+game=Break | play
+stayinchannel=true
+songinstatus=false
+token=NTkxNDIyOTQ5MTMxNjgxNzk0.XQwl4g.OUKzF5EX3XrLkN-1_1Tq9JVkx-w
